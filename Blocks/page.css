@@ -1,6 +1,11 @@
 .page {
+  background-color: #2a2c2f;
+  color: #fff;
 }
 
 .page__section {
-  background-color: #2a2c2f;
+  max-width: 984px;
+  margin: 0 auto;
+  min-height: 100vh;
+  font-family: Inter, Arial, sans-serif;
 }

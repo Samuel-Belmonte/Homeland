@@ -1,0 +1,11 @@
+.grid {
+  grid-gap: 16px;
+  margin: 118px auto 92px;
+  max-width: 1184px;
+}
+
+.grid__images {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 284px);
+  grid-gap: 16px;
+}

@@ -1,4 +1,6 @@
 @import url(../vendor/normalize.css);
 @import url(../Blocks/page.css);
 @import url(../Blocks/header.css);
-@import url(../Blocks/content.css);
+@import url(../Blocks/grid.css);
+@import url(../Blocks/places.css);
+@import url(../Blocks/place.css);
